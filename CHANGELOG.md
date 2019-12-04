@@ -3,10 +3,6 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.1.20](2019-12-02)
-
-Allow `after` option where the link will appear inline after the header text
-
 ## [2.1.19](https://github.com/gatsbyjs/gatsby/compare/gatsby-remark-autolink-headers@2.1.18...gatsby-remark-autolink-headers@2.1.19) (2019-11-26)
 
 **Note:** Version bump only for package gatsby-remark-autolink-headers
